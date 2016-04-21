@@ -1,0 +1,15 @@
+[
+  {
+    "id": "9529d61d-0f26-4d3b-8dd0-5479fe160090",
+    "kind": "wrapper",
+    "parent": "root",
+    "children": [
+      {
+        "id": "f427c146-1c97-41dd-b300-a29c4a20b3xx",
+        "value": "Hello World",
+        "kind": "textbox",
+        "parent": "root"
+      }
+    ]
+  }
+]
